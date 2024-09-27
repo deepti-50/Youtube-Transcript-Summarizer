@@ -1,0 +1,8 @@
+streamlit==1.24.0             # For building the web app
+python-dotenv==1.0.0          # For managing environment variables
+google-generativeai==0.1.0    # For Google's Generative AI API integration
+youtube-transcript-api==0.4.5 # For extracting YouTube transcripts
+googletrans==4.0.0-rc1        # For multi-language support
+opencv-python==4.8.0.76       # For extracting keyframes from video
+pafy==0.5.5                   # For downloading YouTube videos
+pathlib==1.0.1                # Optional (part of Python standard library, but added for older versions)
